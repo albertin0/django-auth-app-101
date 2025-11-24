@@ -1,0 +1,21 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+
+# Django
+db.sqlite3
+/staticfiles/
+/media/
+
+# Environment Variables
+.env
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.log
+
+# OS junk files
+.DS_Store
+Thumbs.db
